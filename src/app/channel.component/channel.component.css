@@ -1,0 +1,42 @@
+.ui-dataView {
+    border: 1px solid #d9d9d9 ; 
+    background: #FFFF;
+    padding: 1%;
+}
+
+.ui_subjectphoto
+{
+    padding: 0.5em;
+    text-align:right
+}
+.ui-instructorPhoto
+{
+    padding: 0.5em;
+    text-align:right
+}
+  
+ 
+.ui-instructorName {
+    font-size: 11px;
+    text-align:left;
+    font-weight: bold;   
+    padding: 0.5em;     
+}   
+div.time {
+    font-size: 11px;
+    font-weight: bold; 
+    padding: 0.5em; 
+    text-align:center;  
+}   
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}  
+.header{
+    font-size: 14px;
+    font-weight: bold;  
+    color: gray; 
+     padding: 1%
+}
